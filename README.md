@@ -1,15 +1,24 @@
-# reset_idea_trial
 
+# 지원버전
+- 2021.1.3 버전만 지원합니다. 필요시 다운그레이드 후 적용하세요.
 
+- hosts 파일에 추가
+``` 
+127.0.0.1 account.jetbrains.com
+127.0.0.1 jrebel.npegeek.com
+127.0.0.1 oauth.account.jetbrains.com
+127.0.0.1 SteveCode.jetbrains.com
+```
 
-# 신규버전
+# Reset Your IDE Eval Information
 
-새 버전 2021.2.4에는 로그인이 필요합니다
-새 계정을 사용하여 새 30일을 시작하고 평가를 제한하는 새 방법을 만들지 않는 한 계속 할 것입니다.
-당신은 두 가지 옵션이 있습니다
-매번 https://temp-mail.org/es/를 사용하여 새 계정 만들기
-버전을 다운그레이드하고 스크립트를 사용할 수 있습니다.
+1. Download and install plugin from [Download Link](https://plugins.zhile.io/files/ide-eval-resetter-2.3.5-c80a1d.zip).
+    * Alternative installation method: 
+        * Add "Custom Plugin Repository": `https://plugins.zhile.io` manually (`Settings/Preferences` -> `Plugins`)
+        * Search and install plugin: `IDE Eval Reset`
+2. Click `Help` or `Get Help` -> `Eval Reset` menu.
+3. Click `Reset` -> `Yes` button.
+4. Restart your IDE.
+5. Now you have another 30 days eval time :)
+6. For more information, visit [here](https://zhile.io/2020/11/18/jetbrains-eval-reset-da33a93d.html).
 
-
-
-##
