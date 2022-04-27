@@ -1,4 +1,12 @@
+## 최신버전
+- 2022.1.1 까지 확인됨
+```
+https://sqiang.net/
+https://jetbra.in/
+https://jetbra.in/jb-genuine-license-servers.txt <--라이선스서버들
+```
 
+-----------
 # 지원버전
 - 2021.1.3 버전만 지원합니다. 필요시 다운그레이드 후 적용하세요.
 
