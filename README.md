@@ -4,6 +4,7 @@
 https://sqiang.net/
 https://jetbra.in/
 https://jetbra.in/jb-genuine-license-servers.txt <--라이선스서버들
+https://jetbra.in/ea105d66-1095-41c8-aefd-17766da42114.html <--오프라인에서 하기 위한 키등록
 ```
 
 -----------
