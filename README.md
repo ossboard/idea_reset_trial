@@ -1,7 +1,7 @@
 ## 최신버전 (2022)
 - 2022.1.1 까지 확인됨
 ```
-1. ja-netfilter-all.zip 다운로드후, mac의 변하지 않을 폴더에 압축풀기
+1. ja-netfilter-all-코드.zip 다운로드후, mac의 변하지 않을 폴더에 압축풀기
 2. script/install.sh 실행
 3. (옵션: idea_reset 플러그인 설치된경우 제거)
 4. 실행후
