@@ -8,6 +8,60 @@
   1) 라이선스 서버에 'https://jetbra.in' 하면 되나, 오프라인모드에서 동작안됨
   2) https://jetbra.in/1c524c33-dd25-4f59-807f-4cbffe0385cb.html 에서 제품선택후, 활성화키에 붙어넣음 1년간 사용가능, 오프라인가능
 
+
+### 라이선스 서버 ( https://jetbra.in/jb-genuine-license-servers.txt )
+```
+http://49.234.70.205
+http://60.247.72.31:8888
+http://91.210.51.48:8080
+http://34.206.48.129
+http://13.232.35.56
+http://153.106.195.23:8080
+http://158.193.243.40
+http://200.13.89.3:8080
+http://140.238.85.244:8080
+http://193.6.57.174:8080
+http://150.254.118.138:8080
+http://195.208.239.74
+http://193.2.42.18:8080
+http://200.17.85.220
+http://186.211.99.100
+http://212.73.75.141
+http://203.23.253.45:8081
+http://129.22.25.52
+http://20.24.96.101
+http://194.83.68.123
+http://46.248.165.184:7777
+http://80.169.232.216:8080
+http://185.76.145.167:8080
+http://94.100.93.228:8080
+http://216.118.207.58:8181
+http://62.76.124.130:8081
+http://178.124.205.99:8090
+http://185.14.45.25:8282
+http://license.engr.ship.edu:8080
+http://licence.fit.cvut.cz:9000
+https://jblicense2.wappworks.com
+https://jetbrains-license.learning.casareal.co.jp
+https://license.fahai.org
+https://lic.gotoweb.top
+https://flm.nighthawkcodingsociety.com
+https://fls-jetbrains.spacetechies.com
+https://jbls.x-root.info
+https://license-server.tmk.edu.hk
+https://jenkins.wf-wolves.de
+http://bumblebee.bhasvic.ac.uk
+http://cse-lic-02.engineering.cwru.edu
+http://lic-server.mephi.ru
+http://license.runtime.kz
+https://licenses.cerebotani.it
+https://jetbrains.blackboard.com
+http://adsk06.tpu.ru:8080
+https://fls.aventus.work
+
+# All the above servers are collected from the Internet and are for testing purposes only, not for commercial use!
+```
+
 ** 참고사이트 **
 https://sqiang.net/
 https://jetbra.in/
