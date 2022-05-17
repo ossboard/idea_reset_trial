@@ -6,7 +6,7 @@
 3. (옵션: idea_reset 플러그인 설치된경우 제거)
 4. 실행후
   1) 라이선스 서버에 'https://jetbra.in' 하면 되나, 오프라인모드에서 동작안됨
-  2) https://jetbra.in/ea105d66-1095-41c8-aefd-17766da42114.html 에서 제품선택후, 활성화키에 붙어넣음 1년간 사용가능, 오프라인가능
+  2) https://jetbra.in/1c524c33-dd25-4f59-807f-4cbffe0385cb.html 에서 제품선택후, 활성화키에 붙어넣음 1년간 사용가능, 오프라인가능
 
 ** 참고사이트 **
 https://sqiang.net/
